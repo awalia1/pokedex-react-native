@@ -8,11 +8,10 @@ Will probably (and probably should have) create a backend and give users the abi
 To run project locally (only tested on iOS):
 
 1. clone repo.
-2. Install dependencies with 'npx expo install'.
+2. Install dependencies with 'npm install'.
 3. Download Expo Go app on your phone from the app store.
 4. Run 'npx expo start' in your terminal.
 5. Scan the QR code that shows up with your camera.
-
 
 <img src="https://github.com/awalia1/pokedex-react-native/assets/24997065/de2513e7-edce-4e93-b0ea-5c00fae3ca34" width="200" height="400">
 <img src="https://github.com/awalia1/pokedex-react-native/assets/24997065/493cdf1b-13ca-43aa-8dfc-fca5f0b16e2b" width="200" height="400">
