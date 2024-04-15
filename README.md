@@ -1,7 +1,7 @@
 # Pokedex React Native App
 
 A Pokedex React Native mobile app leveraging the Pokemon API using Expo and react-query.
-First time ever coding in React Native so may not have adhered to the best practices but found a lot of useful tutorials and github repos that really helped me. This [dribble](https://dribbble.com/shots/16833947-Mobile-Pokedex-App-Design-Exploration) helped guide my design.
+First time ever coding in React Native so may not have adhered to the best practices but found a lot of useful tutorials and github repos that really helped me. This [dribble](http://dribbble.com/shots/16833947-Mobile-Pokedex-App-Design-Exploration) helped guide my design.
 
 Will probably (and probably should have) create a backend and give users the ability to save their pokemon.
 
